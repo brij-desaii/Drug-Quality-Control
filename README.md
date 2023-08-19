@@ -1,8 +1,14 @@
-# Drug Quality Control using Maching Learning
+# Drug Quality Control using Machine Learning
 
-This projected was built as our submission to the Flipkart GRiD 5.0 Health+ Hackathon.
+This project was built as our submission to the Flipkart GRiD 5.0 Health+ Hackathon.
 
-The ML models are implemented in a Jupyter Notebook and the UI was build using Anvil.
+The `Application` directory contains the application to be used by manufacturers. The ML models are implemented in a Jupyter Notebook and the UI was built using Anvil. 
+
+The `Dataset` directory contains the dataset that we have cleaned and pre-processed (taken from Žagar, J., & Mihelič, J. (2022). Big data collection in pharmaceutical manufacturing and its use for product quality predictions. Scientific Data, 9(1), 1-11. https://doi.org/10.1038/s41597-022-01203-x).
+
+The `MATLAB_Models` directory contains the best models for each of the parameters as discussed in the presentation slides.
+
+The `Plots` directory has the test data prediction plots of the MATLAB models.
 
 ## Steps to Run
 
